@@ -13,3 +13,27 @@
 ### Render files
 
 - [Vero](AKB%20Vero/Render/Vero_Render_Model.step)
+
+## Nix Lilith
+
+### Plate files
+
+- [Standard](Nix%20Lilith/Plates/Lilith_Plate_Standard.dxf)
+- [Standard (Step)](Nix%20Lilith/Plates/Lilith_Plate.step)
+
+## FLX Virgo
+
+### Plate files
+
+- [ANSI Fixed](FLX%20Virgo/Plates/ANSI-Fixed.dxf)
+- [ANSI Fixed (soft materials)](FLX%20Virgo/Plates/ANSI-FixedSoftMaterials.dxf)
+- [ANSI Fixed Half](FLX%20Virgo/Plates/ANSI-Fixed-Half.dxf)
+- [ISO Fixed](FLX%20Virgo/Plates/ISO-Fixed.dxf)
+- [ISO Fixed (soft materials)](FLX%20Virgo/Plates/ISO-FixedSoftMaterials.dxf)
+- [Universal Fixed (soft materials)](FLX%20Virgo/Plates/Universal-FixedSoftMaterials.dxf)
+
+## Aalto
+
+### Plate files
+
+- [Aalto](Aalto/Plates/Aalto-Plate-rev1.dxf)

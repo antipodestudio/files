@@ -19,7 +19,7 @@
 ### Plate files
 
 - [Standard](Nix%20Lilith/Plates/Lilith_Plate_Standard.dxf)
-- [Standard (Step)](Nix%20Lilith/Plates/Lilith_Plate.step)
+- [Standard (Step)](Nix%20Lilith/Plates/Lilith-Plate.step)
 
 ## FLX Virgo
 

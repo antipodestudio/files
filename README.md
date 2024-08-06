@@ -37,3 +37,10 @@
 ### Plate files
 
 - [Aalto](Aalto/Plates/Aalto-Plate-rev1.dxf)
+
+## Questions or comments?
+If you need support or have questions, please reach out to us!
+- [Antipode Studio International](https://www.antipode.studio/)
+- [Antipode Studio Norway](https://antipode.no/)
+
+  There you will also find a current link to our discord.
